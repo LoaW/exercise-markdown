@@ -25,7 +25,7 @@ Finalement, vingt ans plus tard, les fermiers optèrent pour la construction de 
 -Poison
 -accident de voiture
 -simulation de suicide
--oversdose
+-overdose
 
 ## Personne à tuer
 
