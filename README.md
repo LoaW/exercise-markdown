@@ -9,7 +9,7 @@
 [Lien vers Markdown.md](markdown.md)
 
 Membre du groupe : 
-- Titouan
-- Julien
-- Quentin
-- Xavier
+- Titouan Moussiaux
+- Julien Scourneau
+- Quentin Macq
+- Xavier Brigode
