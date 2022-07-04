@@ -68,7 +68,7 @@ Finalement, vingt ans plus tard, les fermiers optèrent pour la construction de 
 ## Personne à tuer
 
 1. Sophie *cause harcélement via à son pieds*
-    **démembrement**
+    **démembrement avec miroir**
 2. Julien *cause trop intelligent*
     **bain d'acide**
 3. Xavier *cause trop parfait*
@@ -76,7 +76,7 @@ Finalement, vingt ans plus tard, les fermiers optèrent pour la construction de 
 4. Titouan *cause trop de charisme*
     **noyade**
 5. Laura *cause trop autoriaire*
-    **"faux suicide" saute d'une falaises**
+    **"faux suicide" saute d'une falaise**
 
 
 
