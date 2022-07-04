@@ -51,7 +51,7 @@ Finalement, vingt ans plus tard, les fermiers optèrent pour la construction de 
 
 [atp image](https://fr.wikipedia.org/wiki/Fauve_%28groupe%29)
 
-## Qui c'est?##
+## Qui c'est? ##
 
 *Fauve (stylisé FAUVE ≠ et utilisant parfois le nom Fauve Corp) est un collectif d'artistes français créé en 2010, originaire de Paris, opérant sur plusieurs supports : musique, vidéos, photos, textes, visuels, web*
 *Il est composé d'une vingtaine de membres (musiciens, artistes visuels, comédiens, techniciens...)1. Sur scène, le collectif est représenté par cinq musiciens (chant, guitare, basse, batterie, clavier) et un artiste vidéo2. Lors de leur apparition dans les médias, les membres du collectif aiment conserver leur anonymat et ne souhaitent pas exposer leur vie privée3*
@@ -73,7 +73,7 @@ Le groupe s’inscrit dans la chanson française, avec un texte très travaillé
 7. infirmière
 8. Voyou
 
-## Pourquoi ce groupe##
+## Pourquoi ce groupe
 
 Je trouve que leur parole sont profondes et réfléchis. De plus, l'instrumental est approprié et donne pour moi une dimension supplèmentaire.Et permet donc d'être plus encrer dans leur musique.
 
