@@ -40,13 +40,10 @@ Finalement, vingt ans plus tard, les fermiers optèrent pour la construction de 
 5. Laura *cause trop autoriaire*
     **"faux suicide" saute d'une falaises**
 
-![](https://i.gifer.com/2DSn.gif)
+![kill](https://i.gifer.com/2DSn.gif)
 
 ```javascript
-<script type="text/javascript">
-    alert("Bonne mort");
-</script>
+ <script type="text/javascript">
+     alert("Bonne mort");
+ </script>
 ```
-
-
-
