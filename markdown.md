@@ -38,4 +38,3 @@ public User(String id, String login, String avatarUrl) {
 ```
 
 ![Bien ouej](https://tenor.com/view/brent-rambo-thumbs-up-ok-good-great-gif-3985507.gif)
-
