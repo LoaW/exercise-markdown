@@ -26,11 +26,9 @@ Un document balisé par Markdown peut être converti en HTML, en PDF ou en d'aut
 ### Ressource
 - [Tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Comment faire un readme sur GitHub](https://medium.com/becode/comment-faire-un-readme-sur-github-cc11f3df606a)
-- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) 
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
-Un document balisé par Markdown peut être converti en HTML, en PDF ou en d'autres formats. Bien que la syntaxe Markdown ait été influencée par plusieurs filtres de conversion de texte existants vers HTML — dont Setext3, atx4, Textile, reStructuredText, Grutatext5 et EtText6 —, la source d’inspiration principale du Markdown est le format du courrier électronique en mode texte7. 
-
-exemple de code en Java:
+### Exemple de code en Java:
 ```java
 public User(String id, String login, String avatarUrl) {
         this.id = id;
