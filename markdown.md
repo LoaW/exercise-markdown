@@ -46,54 +46,63 @@ Deux campagnes de destruction successives furent un échec, mais les fermiers de
 
 Finalement, vingt ans plus tard, les fermiers optèrent pour la construction de clôtures infranchissables, dans lesquelles le gouvernement australien dépensa des milliers de livres australiennes en 19534. 
 
-# Kill List 
-    
-    le texte ci dessous est une fiction pour le moment...
 
-![alt image](https://st2.depositphotos.com/2775931/6661/i/600/depositphotos_66613509-stock-photo-bloody-halloween-theme-zombie-killer.jpg)
+# Fauve #
+
+[atp image](https://fr.wikipedia.org/wiki/Fauve_%28groupe%29)
+
+## Qui c'est?##
+
+*Fauve (stylisé FAUVE ≠ et utilisant parfois le nom Fauve Corp) est un collectif d'artistes français créé en 2010, originaire de Paris, opérant sur plusieurs supports : musique, vidéos, photos, textes, visuels, web*
+*Il est composé d'une vingtaine de membres (musiciens, artistes visuels, comédiens, techniciens...)1. Sur scène, le collectif est représenté par cinq musiciens (chant, guitare, basse, batterie, clavier) et un artiste vidéo2. Lors de leur apparition dans les médias, les membres du collectif aiment conserver leur anonymat et ne souhaitent pas exposer leur vie privée3*
+
+## Genre musical ##
+
+Le groupe s’inscrit dans la chanson française, avec un texte très travaillé énoncé en spoken word1. La musique est qualifiée de « rock acoustique, entre rock, rap et slam » par L'Obs8. 
 
 
 
+## Chanson favorites ##
 
+1. Nuit Fauves
+2. Blizzard
+3. Kané
+4. Hauts les coeurs
+5. Rub a dub
+6. Lettre à Zoé
+7. infirmière
+8. Voyou
 
+## Pourquoi ce groupe##
 
-## Méthode d'éliminations
-
--Démembrement.
--Poison
--accident de voiture
--simulation de suicide
--overdose
-
-## Personne à tuer
-
-1. Sophie *cause harcélement via à son pieds*
-    **démembrement avec miroir**
-2. Julien *cause trop intelligent*
-    **bain d'acide**
-3. Xavier *cause trop parfait*
-    **overdose**
-4. Titouan *cause trop de charisme*
-    **noyade**
-5. Laura *cause trop autoriaire*
-    **"faux suicide" saute d'une falaise**
-
+Je trouve que leur parole sont profondes et réfléchis. De plus, l'instrumental est approprié et donne pour moi une dimension supplèmentaire.Et permet donc d'être plus encrer dans leur musique.
 
 
 
 
 
-![](https://i.gifer.com/2DSn.gif)
+
+**Bonne écoute**
+
+![Chat rock](https://i.gifer.com/4SHX.gif)
 
 
 
-``` java
-public User(String id, String login, String avatarUrl) {
-        this.id = id;
-        this.login = login;
-        this.avatarUrl = avatarUrl;
-    }
-```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
