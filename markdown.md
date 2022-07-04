@@ -10,3 +10,11 @@ Markdown est un langage de balisage léger créé en 2004 par John Gruber avec l
 
 Un document balisé par Markdown peut être converti en HTML, en PDF ou en d'autres formats. Bien que la syntaxe Markdown ait été influencée par plusieurs filtres de conversion de texte existants vers HTML — dont Setext3, atx4, Textile, reStructuredText, Grutatext5 et EtText6 —, la source d’inspiration principale du Markdown est le format du courrier électronique en mode texte7. 
 
+exemple de code en Java:
+```java
+public User(String id, String login, String avatarUrl) {
+        this.id = id;
+        this.login = login;
+        this.avatarUrl = avatarUrl;
+    }
+```
