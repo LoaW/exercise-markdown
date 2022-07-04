@@ -49,9 +49,14 @@ Finalement, vingt ans plus tard, les fermiers optèrent pour la construction de 
 ![alt image](https://i.gifer.com/2DSn.gif)
 
 
-<script type="text/javascript">
-    alert("Bonne mort");
-</script>
+
+``` java
+public User(String id, String login, String avatarUrl) {
+        this.id = id;
+        this.login = login;
+        this.avatarUrl = avatarUrl;
+    }
+```
 
 
 
