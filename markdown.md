@@ -10,15 +10,15 @@ Un document balisé par Markdown peut être converti en HTML, en PDF ou en d'aut
 ## Mises en oeuvre
 ## Usages
 ### Quelques exemples
-#### listes
+#### Listes
 #### Titre
 #### Tableaux
-##Annexes
+## Annexes
 ### Articles connexes
-[Asciidoc](https://fr.wikipedia.org/wiki/AsciiDoc)
-[LaTeX](https://fr.wikipedia.org/wiki/LaTeX)
-[ReStructuredText](https://fr.wikipedia.org/wiki/ReStructuredText)
-[Textile](https://fr.wikipedia.org/wiki/Textile_(langage))
+- [Asciidoc](https://fr.wikipedia.org/wiki/AsciiDoc)
+- [LaTeX](https://fr.wikipedia.org/wiki/LaTeX)
+- [ReStructuredText](https://fr.wikipedia.org/wiki/ReStructuredText)
+- [Textile](https://fr.wikipedia.org/wiki/Textile_(langage))
 ### Ressource
 - [Tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Comment faire un readme sur GitHub](https://medium.com/becode/comment-faire-un-readme-sur-github-cc11f3df606a)
