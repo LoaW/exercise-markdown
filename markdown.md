@@ -83,7 +83,7 @@ Finalement, vingt ans plus tard, les fermiers optèrent pour la construction de 
 
 
 
-![alt image](https://i.gifer.com/2DSn.gif)
+![](https://i.gifer.com/2DSn.gif)
 
 
 
