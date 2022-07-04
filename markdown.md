@@ -1,7 +1,57 @@
 [Lien vers le README](README.md)
 
-# Markdown
+# Markdow
 
-Markdown est un langage de balisage léger créé en 2004 par John Gruber avec l'aide d'Aaron Swartz1,2. Il a été créé dans le but d'offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières.
+La guerre des émeus, ou Grande Guerre des émeus, est une opération de gestion de la faune nuisible entreprise en Australie à la fin de 1932 pour répondre aux préoccupations de la population du district de Campion (en), en Australie-Occidentale, concernant le nombre d'émeus vivant dans la région1, qu'elle affirmait pris de folie. Pour essayer de réduire la population d'émeus, un gros oiseau indigène d'Australie, les soldats du régiment royal de l'Artillerie australienne employèrent deux mitrailleuses, ce qui conduisit les médias à adopter le nom de « Guerre des Émeus » pour parler de l'incident.
 
-Un document balisé par Markdown peut être converti en HTML, en PDF ou en d'autres formats. Bien que la syntaxe Markdown ait été influencée par plusieurs filtres de conversion de texte existants vers HTML — dont Setext3, atx4, Textile, reStructuredText, Grutatext5 et EtText6 —, la source d’inspiration principale du Markdown est le format du courrier électronique en mode texte7. 
+Deux campagnes de destruction successives furent un échec, mais les fermiers demandèrent le renouvellement de l'opération en 1934, 1943 et 1948 ; le gouvernement refusa2. Il se contenta de prolonger le système de récompenses mis en place depuis 1923, avec une certaine efficacité : en 1934, 57 034 récompenses furent demandées en six mois3.
+
+Finalement, vingt ans plus tard, les fermiers optèrent pour la construction de clôtures infranchissables, dans lesquelles le gouvernement australien dépensa des milliers de livres australiennes en 19534. 
+
+# Kill List 
+    
+    le texte ci dessous est une fiction pour le moment...
+
+![alt image](https://st2.depositphotos.com/2775931/6661/i/600/depositphotos_66613509-stock-photo-bloody-halloween-theme-zombie-killer.jpg)
+
+
+
+
+
+
+## Méthode d'éliminations
+
+-Démembrement.
+-Poison
+-accident de voiture
+-simulation de suicide
+-oversdose
+
+## Personne à tuer
+
+1. Sophie *cause harcélement via à son pieds*
+    **démembrement**
+2. Julien *cause trop intelligent*
+    **bain d'acide**
+3. Xavier *cause trop parfait*
+    **overdose**
+4. Titouan *cause trop de charisme*
+    **noyade**
+5. Laura *cause trop autoriaire*
+    **"faux suicide" saute d'une falaises**
+
+
+
+
+
+
+
+![alt image](https://i.gifer.com/2DSn.gif)
+
+
+<script type="text/javascript">
+    alert("Bonne mort");
+</script>
+
+
+
